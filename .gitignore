@@ -1,0 +1,4 @@
+.venv/
+all-data.csv
+my_finbert/
+*.zip
