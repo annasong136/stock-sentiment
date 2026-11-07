@@ -8,8 +8,6 @@ A Python project that labels financial news sentences as positive, neutral, or n
 | TF-IDF trigrams + LinearSVC | 75.6% |
 | FinBERT, fine-tuned | 87.8% |
 
-An "always neutral" baseline scores about 59%, so the dictionary approach actually did worse than guessing😭
-
 ## Data
 [Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news) on Kaggle. Download `all-data.csv` and place it next to the notebook.
 
