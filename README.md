@@ -15,3 +15,5 @@ A Python project that labels financial news sentences as positive, neutral, or n
 1. `pip install -r requirements.txt`
 2. Open `sentiment.ipynb` and run the cells in order.
 3. FinBERT fine-tuning needs a GPU, so I ran it in Google Colab: [https://colab.research.google.com/drive/189mqntOX-6gbeaJSx8tDUvJ6uwZt8-w2]
+- `sentiment.ipynb`: baseline models (dictionary, TF-IDF)
+- `finbert_finetune.ipynb`: FinBERT fine-tuning (needs a GPU, I used Colab)
