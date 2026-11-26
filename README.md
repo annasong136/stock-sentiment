@@ -1,6 +1,6 @@
 # Financial News Sentiment Classifier
 
-A Python project that labels financial news sentences as positive, neutral, or negative, comparing four approaches on the same 970-sentence held-out test set.
+Hey there! This is a small little Python project that labels financial news sentences as positive, neutral, or negative, comparing four approaches on the same 970-sentence held-out test set. If you have any thoughts, feedback, errors, or improvements to share, feel free to reach out annasong136@gmail.com :) Enjoy!
 
 | Model | Accuracy |
 | TextBlob dictionary | 50.9% |
@@ -9,7 +9,7 @@ A Python project that labels financial news sentences as positive, neutral, or n
 | FinBERT, fine-tuned | 87.8% |
 
 ## Data
-[Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news) on Kaggle. Download `all-data.csv` and place it next to the notebook.
+[Sentiment Analysis for Financial News](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news) on Kaggle. Simply download `all-data.csv` and place it next to the notebook!
 
 ## How to run
 1. `pip install -r requirements.txt`
